@@ -1,40 +1,42 @@
 # Rodrigo Bueno Oliveira
 
-**Backend / Web Developer** focused on PHP, Laravel, SQL, REST APIs and SaaS products.
+**Desenvolvedor Web / Backend** com foco em PHP, Laravel, SQL, APIs REST e produtos SaaS.
 
-I have a background in business administration and more than 20 years of experience managing real operations, processes and customer-facing businesses. Today I apply that business perspective to software development, especially systems with real rules, integrations and operational workflows.
+Sou formado em Administração com Ênfase em Comércio Exterior e tenho mais de 20 anos de experiência em gestão, operação, processos e atendimento ao cliente. Hoje aplico essa visão de negócio ao desenvolvimento de software, principalmente em sistemas com regras reais, integrações e fluxos operacionais.
 
-## What I work with
+## Tecnologias e práticas
 
-- **Backend:** PHP, Laravel, REST APIs, authentication, business rules
-- **Data:** SQL, MySQL, data modeling and queries
-- **Web:** JavaScript, HTML, CSS, WordPress
-- **Workflow:** Git/GitHub, debugging, testing, staging/production deploys
-- **AI-assisted development:** ChatGPT, Claude and other tools for analysis, implementation, debugging and validation
+- **Backend:** PHP, Laravel, APIs REST, autenticação e regras de negócio
+- **Banco de dados:** SQL, MySQL, modelagem e consultas
+- **Web:** JavaScript, HTML, CSS e WordPress
+- **Desenvolvimento:** Git/GitHub, debugging, testes e deploy em ambientes de teste e produção
+- **IA aplicada ao desenvolvimento:** ChatGPT, Claude e outras ferramentas para análise, implementação, debugging, revisão e validação
 
-## Current project
+## Projeto atual
 
 ### É Só Marcar
-Scheduling SaaS for businesses that work with appointments.
+SaaS de agendamento para negócios que trabalham com hora marcada.
 
-- V1 already running in real production use
-- Scheduling rules, professionals, services and availability
-- Authentication and access flows
-- SMS confirmation and recovery flows
-- Admin panel and customer booking experience
-- V2 in development with **Laravel** and **multi-tenant SaaS architecture**
+- V1 já utilizada em operação real
+- Regras de agenda, profissionais, serviços e disponibilidade
+- Fluxos de autenticação e acesso
+- Confirmação e recuperação de acesso por SMS
+- Painel administrativo e experiência de agendamento para o cliente
+- V2 em desenvolvimento com **Laravel** e arquitetura **SaaS multi-tenant**
 
-> The production source code is private. Public technical cases and selected examples will be added here over time.
+> O código-fonte de produção é privado. Casos técnicos e exemplos selecionados serão publicados aqui sem expor dados ou estruturas sensíveis do produto.
 
-## Portfolio
+## Portfólio
 
 - **Ads que Converte:** https://adsqueconverte.com.br
 - **É Só Marcar:** https://esomarcar.com.br
 - **LinkedIn:** https://www.linkedin.com/in/rodrigo-bueno-oliveira/
 
-## Current focus
+## Foco atual
 
-Improving my backend engineering fundamentals, software testing, API design, Git workflows and modern development practices while continuing to build and maintain real software.
+Aprofundar fundamentos de backend, testes de software, design de APIs, Git/GitHub e práticas modernas de desenvolvimento, enquanto continuo desenvolvendo e mantendo software em uso real.
 
-📍 Itajaí, SC, Brazil  
+**Inglês técnico:** boa leitura e compreensão de documentação.
+
+📍 Itajaí, SC, Brasil  
 📫 rododigo@hotmail.com
