@@ -1,42 +1,59 @@
 # Rodrigo Bueno Oliveira
 
-**Desenvolvedor Web / Backend** com foco em PHP, Laravel, SQL, APIs REST e produtos SaaS.
+**Desenvolvedor de Software** com atuação prática em PHP/Laravel, Node.js/TypeScript, SQL, APIs, integrações e produtos SaaS.
 
-Sou formado em Administração com Ênfase em Comércio Exterior e tenho mais de 20 anos de experiência em gestão, operação, processos e atendimento ao cliente. Hoje aplico essa visão de negócio ao desenvolvimento de software, principalmente em sistemas com regras reais, integrações e fluxos operacionais.
+Sou formado em Administração com Ênfase em Comércio Exterior e trago mais de 20 anos de experiência em gestão, operação, processos e atendimento. Hoje aplico essa visão de negócio ao desenvolvimento de software, especialmente em sistemas com regras reais, integrações, banco de dados e fluxos operacionais.
 
 ## Tecnologias e práticas
 
-- **Backend:** PHP, Laravel, APIs REST, autenticação e regras de negócio
-- **Banco de dados:** SQL, MySQL, modelagem e consultas
+- **Backend:** PHP, Laravel, Node.js, TypeScript, NestJS e APIs REST
+- **Banco de dados:** SQL, MySQL e PostgreSQL
 - **Web:** JavaScript, HTML, CSS e WordPress
-- **Desenvolvimento:** Git/GitHub, debugging, testes e deploy em ambientes de teste e produção
-- **IA aplicada ao desenvolvimento:** ChatGPT, Claude e outras ferramentas para análise, implementação, debugging, revisão e validação
+- **Engenharia de software:** Git/GitHub, debugging, testes, integração de sistemas e deploy
+- **IA aplicada ao desenvolvimento:** uso intensivo para análise, implementação, pesquisa, debugging e revisão, sempre com testes e validação antes da entrega
 
-## Projeto atual
+## Projetos em destaque
 
 ### É Só Marcar
-SaaS de agendamento para negócios que trabalham com hora marcada.
+SaaS de agendamento em operação real.
 
-- V1 já utilizada em operação real
-- Regras de agenda, profissionais, serviços e disponibilidade
-- Fluxos de autenticação e acesso
-- Confirmação e recuperação de acesso por SMS
-- Painel administrativo e experiência de agendamento para o cliente
-- V2 em desenvolvimento com **Laravel** e arquitetura **SaaS multi-tenant**
+- V1 em produção com PHP, WordPress, MySQL e JavaScript
+- autenticação e confirmação de acesso por SMS
+- regras de agenda, profissionais, serviços e disponibilidade
+- ambientes separados de teste e produção
+- V2 em desenvolvimento com **Laravel** e arquitetura **multi-tenant**
 
-> O código-fonte de produção é privado. Casos técnicos e exemplos selecionados serão publicados aqui sem expor dados ou estruturas sensíveis do produto.
+**Case técnico:** https://github.com/rododigobueno/esomarcar-case  
+**Produto:** https://esomarcar.com.br
 
-## Portfólio
+### Jungle Wagering Processor
+Desafio técnico de processo seletivo com foco em processamento concorrente, consistência financeira e mensageria.
 
-- **Ads que Converte:** https://adsqueconverte.com.br
-- **É Só Marcar:** https://esomarcar.com.br
+- TypeScript, NestJS e PostgreSQL
+- SQS/LocalStack, workers e padrões Inbox/Outbox
+- idempotência e optimistic locking
+- testes unitários, de integração, E2E e cenário distribuído com múltiplas instâncias
+
+**Repositório:** https://github.com/rododigobueno/jungle-wagering-processor
+
+### Ads que Converte
+Minha operação principal de desenvolvimento e implementação técnica de páginas, sites, funis e soluções digitais.
+
+- WordPress, PHP, HTML, CSS e JavaScript
+- integrações, formulários e rastreamento
+- Meta Pixel, Google Tag Manager e eventos de conversão
+- testes, publicação, manutenção e resolução de problemas
+
+**Site:** https://adsqueconverte.com.br
+
+## Forma de trabalho
+
+Uso IA como ferramenta de desenvolvimento e aprendizado, mas não trato respostas geradas como prova de correção. Procuro entender o problema, revisar decisões, reproduzir erros, testar cenários e validar o comportamento real antes de publicar ou entregar uma solução.
+
+## Contato
+
 - **LinkedIn:** https://www.linkedin.com/in/rodrigo-bueno-oliveira/
-
-## Foco atual
-
-Aprofundar fundamentos de backend, testes de software, design de APIs, Git/GitHub e práticas modernas de desenvolvimento, enquanto continuo desenvolvendo e mantendo software em uso real.
+- **Localização:** Itajaí, SC, Brasil
+- **E-mail:** rododigo@hotmail.com
 
 **Inglês técnico:** boa leitura e compreensão de documentação.
-
-📍 Itajaí, SC, Brasil  
-📫 rododigo@hotmail.com
