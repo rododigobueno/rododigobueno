@@ -2,7 +2,7 @@
 
 **Desenvolvedor de Software** com atuação prática em PHP/Laravel, Node.js/TypeScript, SQL, APIs, integrações e produtos SaaS.
 
-Sou formado em Administração com Ênfase em Comércio Exterior e trago mais de 20 anos de experiência em gestão, operação, processos e atendimento. Hoje aplico essa visão de negócio ao desenvolvimento de software, especialmente em sistemas com regras reais, integrações, banco de dados e fluxos operacionais.
+Sou formado em Administração com Ênfase em Comércio Exterior e, desde outubro de 2026, curso o tecnólogo em Análise e Desenvolvimento de Sistemas no Centro Universitário UniFatecie. Trago mais de 20 anos de experiência em gestão, operação, processos e atendimento. Hoje aplico essa visão de negócio ao desenvolvimento de software, especialmente em sistemas com regras reais, integrações, banco de dados e fluxos operacionais.
 
 ## Tecnologias e práticas
 
