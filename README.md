@@ -1,8 +1,8 @@
 # Rodrigo Bueno Oliveira
 
-**Desenvolvimento de software | Sistemas e integrações | PHP/Laravel · TypeScript · SQL**
+**Análise de Sistemas | Desenvolvimento de Software | Integrações e APIs**
 
-Desenvolvo e mantenho sistemas, aplicações web e soluções digitais com foco em regras de negócio, integrações e operação real. Sou formado em Administração, estudo Análise e Desenvolvimento de Sistemas e reúno experiência anterior em gestão e processos. Busco oportunidades em desenvolvimento de software e funções técnicas com foco em sistemas.
+Atuo na análise de requisitos e regras de negócio, desenvolvimento e manutenção de sistemas, aplicações web e integrações, com foco em soluções aplicáveis à operação real. Sou formado em Administração, estudo Análise e Desenvolvimento de Sistemas e reúno experiência anterior em gestão e processos. Busco oportunidades em desenvolvimento de software e funções técnicas com foco em sistemas.
 
 ## Competências técnicas
 
