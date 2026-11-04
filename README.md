@@ -1,59 +1,62 @@
 # Rodrigo Bueno Oliveira
 
-**Desenvolvedor de Software** com atuação prática em PHP/Laravel, Node.js/TypeScript, SQL, APIs, integrações e produtos SaaS.
+**Desenvolvimento de software | Sistemas e integrações | PHP/Laravel · TypeScript · SQL**
 
-Sou formado em Administração com Ênfase em Comércio Exterior e, desde outubro de 2026, curso o tecnólogo em Análise e Desenvolvimento de Sistemas no Centro Universitário UniFatecie. Trago mais de 20 anos de experiência em gestão, operação, processos e atendimento. Hoje aplico essa visão de negócio ao desenvolvimento de software, especialmente em sistemas com regras reais, integrações, banco de dados e fluxos operacionais.
+Desenvolvo e mantenho sistemas, aplicações web e soluções digitais com foco em regras de negócio, integrações e operação real. Sou formado em Administração, estudo Análise e Desenvolvimento de Sistemas e reúno experiência anterior em gestão e processos. Busco oportunidades em desenvolvimento de software e funções técnicas com foco em sistemas.
 
-## Tecnologias e práticas
+## Competências técnicas
 
-- **Backend:** PHP, Laravel, Node.js, TypeScript, NestJS e APIs REST
-- **Banco de dados:** SQL, MySQL e PostgreSQL
-- **Web:** JavaScript, HTML, CSS e WordPress
-- **Engenharia de software:** Git/GitHub, debugging, testes, integração de sistemas e deploy
-- **IA aplicada ao desenvolvimento:** uso intensivo para análise, implementação, pesquisa, debugging e revisão, sempre com testes e validação antes da entrega
+- **Backend e APIs:** PHP, Laravel, Node.js, TypeScript, NestJS, APIs REST
+- **Dados:** SQL, MySQL, PostgreSQL
+- **Web:** JavaScript, HTML, CSS, WordPress
+- **Práticas:** Git/GitHub, testes, debugging, integrações, deploy e manutenção
+- **IA no desenvolvimento:** apoio à implementação e análise, com revisão e validação dos resultados
 
-## Projetos em destaque
+## Portfólio de projetos
 
-### É Só Marcar
-SaaS de agendamento em operação real.
+Este catálogo apresenta **todos os 13 repositórios do meu GitHub**, inclusive projetos cujo código é privado. Os projetos marcados como **Privado** são apresentados apenas em nível descritivo: seus arquivos, histórico e implementação não estão disponíveis publicamente.
 
-- V1 em produção com PHP, WordPress, MySQL e JavaScript
-- autenticação e confirmação de acesso por SMS
-- regras de agenda, profissionais, serviços e disponibilidade
-- ambientes separados de teste e produção
-- V2 em desenvolvimento com **Laravel** e arquitetura **multi-tenant**
+### Produtos e sistemas
 
-**Case técnico:** https://github.com/rododigobueno/esomarcar-case  
-**Produto:** https://esomarcar.com.br
+| Projeto | Descrição | Código |
+| --- | --- | --- |
+| **É Só Marcar — V1** | Sistema de agendamentos para barbearias, com gestão de profissionais, serviços, disponibilidade e confirmação por SMS. | **Privado** |
+| **É Só Marcar — V2** | Evolução do produto para uma arquitetura SaaS multi-tenant em Laravel. | **Privado** |
+| **É Só Marcar — Site** | Site institucional do produto, separado da aplicação de agendamentos. | **Privado** |
+| **Central Financeira** | Sistema em Laravel para organização financeira, conciliação e projeções de caixa. | **Privado** |
+| **Agenda API Laravel** | Projeto de API para agenda e operações de agendamento. | [Público — código](https://github.com/rododigobueno/agenda-api-laravel) |
 
-### Jungle Wagering Processor
-Desafio técnico de processo seletivo com foco em processamento concorrente, consistência financeira e mensageria.
+**É Só Marcar:** [Site do produto](https://esomarcar.com.br) · [Case técnico público](https://github.com/rododigobueno/esomarcar-case)
 
-- TypeScript, NestJS e PostgreSQL
-- SQS/LocalStack, workers e padrões Inbox/Outbox
-- idempotência e optimistic locking
-- testes unitários, de integração, E2E e cenário distribuído com múltiplas instâncias
+### Sites, operações digitais e produtos comerciais
 
-**Repositório:** https://github.com/rododigobueno/jungle-wagering-processor
+| Projeto | Descrição | Código |
+| --- | --- | --- |
+| **Ads que Converte — Site** | Estrutura web de serviços de implementação técnica, páginas, funis e integrações. | **Privado** |
+| **Clube Amigos da Pri** | Produto digital com página comercial e integração ao ecossistema WordPress. | **Privado** |
+| **Como Empreender em Festas — Site** | Estrutura web de uma operação de conteúdo, serviços e produtos digitais. | **Privado** |
+| **Belmiro Barbearia — Site** | Projeto web de barbearia, separado do sistema de agendamento. | **Privado** |
+| **Jornada Freelancer** | Projeto voltado à organização de atividades e processos de trabalho independente. | **Privado** |
 
-### Ads que Converte
-Minha operação principal de desenvolvimento e implementação técnica de páginas, sites, funis e soluções digitais.
+**Ads que Converte:** [Site](https://adsqueconverte.com.br)
 
-- WordPress, PHP, HTML, CSS e JavaScript
-- integrações, formulários e rastreamento
-- Meta Pixel, Google Tag Manager e eventos de conversão
-- testes, publicação, manutenção e resolução de problemas
+### Estudos e demonstrações técnicas
 
-**Site:** https://adsqueconverte.com.br
+| Repositório | Descrição | Código |
+| --- | --- | --- |
+| **Jungle Wagering Processor** | Desafio técnico em TypeScript/NestJS, com processamento concorrente, idempotência, consistência e testes. | [Público — código](https://github.com/rododigobueno/jungle-wagering-processor) |
+| **É Só Marcar — Case** | Apresentação técnica pública do sistema de agendamento e de suas decisões de implementação. | [Público — case](https://github.com/rododigobueno/esomarcar-case) |
+| **Perfil GitHub** | Documentação pública deste perfil e catálogo de projetos. | [Público — README](https://github.com/rododigobueno/rododigobueno) |
 
-## Forma de trabalho
+> **Sobre os projetos privados:** a restrição de acesso protege código-fonte, configurações, integrações e informações operacionais. A apresentação pública do projeto não significa que seu repositório esteja disponível para consulta.
 
-Uso IA como ferramenta de desenvolvimento e aprendizado, mas não trato respostas geradas como prova de correção. Procuro entender o problema, revisar decisões, reproduzir erros, testar cenários e validar o comportamento real antes de publicar ou entregar uma solução.
+## Como trabalho
+
+Procuro entender o problema e suas regras de negócio antes de implementar. Utilizo ferramentas de IA como apoio ao desenvolvimento, mas priorizo revisão, testes, rastreabilidade e validação do comportamento real.
 
 ## Contato
 
-- **LinkedIn:** https://www.linkedin.com/in/rodrigo-bueno-oliveira/
-- **Localização:** Itajaí, SC, Brasil
+- **LinkedIn:** [linkedin.com/in/rodrigo-bueno-oliveira](https://www.linkedin.com/in/rodrigo-bueno-oliveira/)
 - **E-mail:** rododigo@hotmail.com
-
-**Inglês técnico:** boa leitura e compreensão de documentação.
+- **Localização:** Itajaí, Santa Catarina, Brasil
+- **Inglês técnico:** leitura e compreensão de documentação
